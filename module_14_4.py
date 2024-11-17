@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)# настройка logov
 #В самом начале запускайте ранее написанную функцию get_all_products.
 all_products = get_all_products()
 
-api = '7707234672:AAF-oM2PH-ddxA2_kHagE_X3MucBrGCb8CE'
+api = ''
 bot = Bot(token = api)
 dp = Dispatcher(bot, storage = MemoryStorage())
 

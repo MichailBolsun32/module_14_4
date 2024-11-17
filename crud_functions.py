@@ -1,6 +1,4 @@
 import sqlite3
-import random
-from distutils.command.check import check
 
 #Создайте файл crud_functions.py и напишите там следующие функции:
 
